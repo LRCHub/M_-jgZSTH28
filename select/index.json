@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "lilac slumber",
+  "base_artist": "Annabel",
+  "createdAt": "2026-02-21T12:05:14.221789Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "lilac slumber",
+      "artist": "Annabel",
+      "has_synced": true,
+      "path": "select/01_lilac_slumber_Annabel.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "lilac slumber (cosmic ver.)",
+      "artist": "Annabel",
+      "has_synced": false,
+      "path": "select/pl_01_lilac_slumber_(cosmic_ver.)_Annabel.txt"
+    }
+  ]
+}
